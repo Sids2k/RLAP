@@ -1,0 +1,82 @@
+{
+    "train_count_downscale": 1, 
+    "val_count_downscale": 1000, 
+    "test_count_downscale": 1000, 
+    "use_panda": true, 
+    "categories": [
+        {
+            "template": "planFiles/4D2V_SAC.json", 
+            "count": 1
+        }
+    ], 
+    "comments": [
+        {
+            "template": "planFiles/1objpicsNOTORIGIN.dtxt.json", 
+            "count": 1
+        },
+        {
+            "template": "planFiles/2objpicsNOTORIGIN.dtxt.json", 
+            "count": 1
+        },
+        {
+            "template": "planFiles/1D2V_SAC.json", 
+            "count": 1
+        },
+        {
+            "template": "planFiles/2D2V_SAC.json", 
+            "count": 1
+        },
+        {
+            "template": "planFiles/4D2V_SAC.json", 
+            "count": 1
+        },
+        {
+            "template": "planFiles/sokoban.dtxt.json", 
+            "count": 1
+        },
+        {
+            "template": "planFiles/2objpics.dtxt.json", 
+            "count": 1
+        }, 
+        {
+            "template": "planFiles/1objpics.dtxt.json", 
+            "count": 1
+        }, 
+        {
+            "template": "planFiles/rearrangement.dtxt.json", 
+            "count": 1
+        }, 
+        {
+            "template": "planFiles/newDomain.dtxt.json", 
+            "count": 1
+        }, 
+        {
+            "template": "planFiles/move3obj.dtxt.json", 
+            "count": 1
+        }, 
+        {
+            "template": "planFiles/2D2V-Copy1.o3544039.json", 
+            "count": 1
+        }, 
+        {
+            "template": "v13copy.o3506608.json", 
+            "count": 1
+        }, 
+        {
+            "template": "planFiles/2D2V-Copy1.o3544039.json", 
+            "count": 1
+        }, 
+        {
+            "template": "scene1.json", 
+            "count": 1
+        }, 
+        {
+            "template": "planFiles/4D2V-Copy1.o3544031.json", 
+            "count": 1
+        }, 
+        {
+            "template": "planFiles/1D2V-Copy1.o3544043.json", 
+            "count": 1
+        }
+    ]
+}
